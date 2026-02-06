@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi! I'm Iván</h1>
 
 <p align="center">
-  Computer Systems Engineering Student | Backend · UX · Networking · Automation<br>
+  Computer Systems Engineering Student | FullStack · UX · Networking · Automation<br>
   🚀 Passionate about building real-world tech solutions
 </p>
 
