@@ -70,7 +70,7 @@
 
 ---
 
-### ☕ Lead Developer — CoffeeVision AI | 2026
+### ☕ Lead Developer — CoffeeVision AI | InnovaTECNM | 2026
 > Led the complete development of an AI-powered industrial coffee quality inspection system.
 
 - 🤖 AI models using **YOLO + Python**
