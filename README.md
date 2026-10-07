@@ -1,17 +1,21 @@
-<h1 align="center">
-  👋 Hi! <span style="color:#2563eb;">I'm Iván</span>
-</h1>
+<div align="center">
 
-<p align="center">
-  Computer Systems Engineering Student | FullStack · AI · Infrastructure · Networking · Automation<br>
-  🚀 Passionate about building real-world technological solutions
-</p>
+<a href="https://github.com/Ivan2729i">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="assets/banner-dark.v9.svg">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="assets/banner-light.v9.svg">
+    <img
+      src="assets/banner-light.v9.svg"
+      width="960"
+      alt="Ivan Paz Valladares - Full Stack Developer / DevOps">
+  </picture>
+</a>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🌐%20Huawei%20ICT-Regional%20Finalist-E21D2B?style=for-the-badge&labelColor=2B2B2B&color=E21D2B"/>
-  <img src="https://img.shields.io/badge/💡%20InnovaTec-2026-7C3AED?style=for-the-badge&labelColor=5B21B6&color=7C3AED"/>
-  <img src="https://img.shields.io/badge/🖥️%20Infrastructure-Linux%20%7C%20Proxmox%20%7C%20Servers-15803D?style=for-the-badge&labelColor=2B2B2B&color=15803D"/>
-</p>
+</div>
 
 ---
 
